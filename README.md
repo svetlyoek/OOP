@@ -1,2 +1,2 @@
-# OOP
-CSharp OOP
+The Object-Oriented Programming course will teach you the principles of Object Oriented Programming (PLO), how to work with classes and objects, how to use object-oriented modeling, and build class hierarchies. The basic principles of CMO will be studied as abstraction (interfaces, abstract classes), encapsulation, inheritance and polymorphism. We will pay attention to paradigms such as event-driven programming, functional programming (lambda functions, closures and LINQ), exception handling. We'll look at cloning, comparing, and crawling objects. We will briefly go into the most commonly used design patterns. 
+The evaluation of the CMO course is based on the submitted residential, practical team projects and the CMO practical exam.
