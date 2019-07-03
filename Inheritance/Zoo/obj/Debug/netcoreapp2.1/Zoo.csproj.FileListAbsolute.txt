@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Zoo.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Zoo.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Zoo.dll
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\bin\Debug\netcoreapp2.1\Zoo.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Zoo.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Zoo.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Zoo.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Zoo.dll
+E:\Soft Uni\CODES\OOP\Inheritance\Zoo\obj\Debug\netcoreapp2.1\Zoo.pdb
