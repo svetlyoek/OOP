@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.dll
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\bin\Debug\netcoreapp2.1\StackOfStrings.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.dll
+E:\Soft Uni\CODES\OOP\Inheritance\StackOfStrings\obj\Debug\netcoreapp2.1\StackOfStrings.pdb

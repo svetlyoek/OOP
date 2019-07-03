@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.dll
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\bin\Debug\netcoreapp2.1\HierarchicalInheritance.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.dll
+E:\Soft Uni\CODES\OOP\Inheritance\HierarchicalInheritance\obj\Debug\netcoreapp2.1\HierarchicalInheritance.pdb

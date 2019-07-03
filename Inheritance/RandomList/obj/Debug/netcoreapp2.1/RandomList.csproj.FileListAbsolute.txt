@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\bin\Debug\netcoreapp2.1\RandomList.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\bin\Debug\netcoreapp2.1\RandomList.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\bin\Debug\netcoreapp2.1\RandomList.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\bin\Debug\netcoreapp2.1\RandomList.dll
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\bin\Debug\netcoreapp2.1\RandomList.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\obj\Debug\netcoreapp2.1\RandomList.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\obj\Debug\netcoreapp2.1\RandomList.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\obj\Debug\netcoreapp2.1\RandomList.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\obj\Debug\netcoreapp2.1\RandomList.dll
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\obj\Debug\netcoreapp2.1\RandomList.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\RandomList\obj\Debug\netcoreapp2.1\RandomList.csprojAssemblyReference.cache

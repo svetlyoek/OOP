@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.dll
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\bin\Debug\netcoreapp2.1\MultipleInheritance.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.dll
+E:\Soft Uni\CODES\OOP\Inheritance\MultipleInheritance\obj\Debug\netcoreapp2.1\MultipleInheritance.pdb

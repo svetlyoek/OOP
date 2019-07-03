@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.dll
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\bin\Debug\netcoreapp2.1\SingleInheritance.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.dll
+E:\Soft Uni\CODES\OOP\Inheritance\SingleInheritance\obj\Debug\netcoreapp2.1\SingleInheritance.pdb
