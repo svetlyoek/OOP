@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.dll
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.dll
+E:\Soft Uni\CODES\OOP\Inheritance\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.pdb
