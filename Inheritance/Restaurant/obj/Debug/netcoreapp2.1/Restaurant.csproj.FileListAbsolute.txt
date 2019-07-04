@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+E:\Soft Uni\CODES\OOP\Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb
