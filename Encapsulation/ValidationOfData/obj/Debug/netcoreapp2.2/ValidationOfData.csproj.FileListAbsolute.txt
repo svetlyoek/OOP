@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\ValidationOfData\bin\Debug\netcoreapp2.2\ValidationOfData.deps.json
+E:\Soft Uni\CODES\OOP\ValidationOfData\bin\Debug\netcoreapp2.2\ValidationOfData.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\ValidationOfData\bin\Debug\netcoreapp2.2\ValidationOfData.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\ValidationOfData\bin\Debug\netcoreapp2.2\ValidationOfData.dll
+E:\Soft Uni\CODES\OOP\ValidationOfData\bin\Debug\netcoreapp2.2\ValidationOfData.pdb
+E:\Soft Uni\CODES\OOP\ValidationOfData\obj\Debug\netcoreapp2.2\ValidationOfData.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\ValidationOfData\obj\Debug\netcoreapp2.2\ValidationOfData.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\ValidationOfData\obj\Debug\netcoreapp2.2\ValidationOfData.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\ValidationOfData\obj\Debug\netcoreapp2.2\ValidationOfData.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\ValidationOfData\obj\Debug\netcoreapp2.2\ValidationOfData.dll
+E:\Soft Uni\CODES\OOP\ValidationOfData\obj\Debug\netcoreapp2.2\ValidationOfData.pdb

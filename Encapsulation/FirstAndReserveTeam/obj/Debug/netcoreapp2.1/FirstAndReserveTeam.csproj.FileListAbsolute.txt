@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.deps.json
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.dll
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.pdb
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.dll
+E:\Soft Uni\CODES\OOP\Encapsulation\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.pdb
