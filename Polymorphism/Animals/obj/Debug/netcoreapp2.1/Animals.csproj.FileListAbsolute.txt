@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.pdb
+E:\Soft Uni\CODES\OOP\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
