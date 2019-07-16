@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\bin\Debug\netcoreapp2.0\Stream_Progress.deps.json
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\bin\Debug\netcoreapp2.0\Stream_Progress.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\bin\Debug\netcoreapp2.0\Stream_Progress.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\bin\Debug\netcoreapp2.0\Stream_Progress.dll
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\bin\Debug\netcoreapp2.0\Stream_Progress.pdb
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\obj\Debug\netcoreapp2.0\Stream_Progress.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\obj\Debug\netcoreapp2.0\Stream_Progress.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\obj\Debug\netcoreapp2.0\Stream_Progress.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\obj\Debug\netcoreapp2.0\Stream_Progress.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\obj\Debug\netcoreapp2.0\Stream_Progress.dll
+E:\Soft Uni\CODES\OOP\SOLID\Stream_Progress\obj\Debug\netcoreapp2.0\Stream_Progress.pdb
