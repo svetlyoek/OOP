@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\bin\Debug\netcoreapp2.0\Recharge.deps.json
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\bin\Debug\netcoreapp2.0\Recharge.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\bin\Debug\netcoreapp2.0\Recharge.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\bin\Debug\netcoreapp2.0\Recharge.dll
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\bin\Debug\netcoreapp2.0\Recharge.pdb
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\obj\Debug\netcoreapp2.0\Recharge.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\obj\Debug\netcoreapp2.0\Recharge.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\obj\Debug\netcoreapp2.0\Recharge.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\obj\Debug\netcoreapp2.0\Recharge.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\obj\Debug\netcoreapp2.0\Recharge.dll
+E:\Soft Uni\CODES\OOP\SOLID\Recharge\obj\Debug\netcoreapp2.0\Recharge.pdb

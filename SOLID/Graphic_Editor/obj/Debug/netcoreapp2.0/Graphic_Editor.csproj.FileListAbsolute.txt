@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\bin\Debug\netcoreapp2.0\Graphic_Editor.deps.json
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\bin\Debug\netcoreapp2.0\Graphic_Editor.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\bin\Debug\netcoreapp2.0\Graphic_Editor.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\bin\Debug\netcoreapp2.0\Graphic_Editor.dll
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\bin\Debug\netcoreapp2.0\Graphic_Editor.pdb
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\obj\Debug\netcoreapp2.0\Graphic_Editor.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\obj\Debug\netcoreapp2.0\Graphic_Editor.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\obj\Debug\netcoreapp2.0\Graphic_Editor.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\obj\Debug\netcoreapp2.0\Graphic_Editor.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\obj\Debug\netcoreapp2.0\Graphic_Editor.dll
+E:\Soft Uni\CODES\OOP\SOLID\Graphic_Editor\obj\Debug\netcoreapp2.0\Graphic_Editor.pdb
