@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\bin\Debug\netcoreapp2.0\Detail_Printer.deps.json
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\bin\Debug\netcoreapp2.0\Detail_Printer.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\bin\Debug\netcoreapp2.0\Detail_Printer.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\bin\Debug\netcoreapp2.0\Detail_Printer.dll
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\bin\Debug\netcoreapp2.0\Detail_Printer.pdb
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\obj\Debug\netcoreapp2.0\Detail_Printer.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\obj\Debug\netcoreapp2.0\Detail_Printer.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\obj\Debug\netcoreapp2.0\Detail_Printer.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\obj\Debug\netcoreapp2.0\Detail_Printer.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\obj\Debug\netcoreapp2.0\Detail_Printer.dll
+E:\Soft Uni\CODES\OOP\SOLID\Detail_Printer\obj\Debug\netcoreapp2.0\Detail_Printer.pdb
