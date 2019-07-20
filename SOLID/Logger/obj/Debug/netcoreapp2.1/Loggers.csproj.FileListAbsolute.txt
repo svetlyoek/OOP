@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\bin\Debug\netcoreapp2.1\Loggers.deps.json
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\bin\Debug\netcoreapp2.1\Loggers.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\bin\Debug\netcoreapp2.1\Loggers.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\bin\Debug\netcoreapp2.1\Loggers.dll
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\bin\Debug\netcoreapp2.1\Loggers.pdb
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\obj\Debug\netcoreapp2.1\Loggers.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\obj\Debug\netcoreapp2.1\Loggers.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\obj\Debug\netcoreapp2.1\Loggers.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\obj\Debug\netcoreapp2.1\Loggers.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\obj\Debug\netcoreapp2.1\Loggers.dll
+E:\Soft Uni\CODES\OOP\SOLID\Loggers\obj\Debug\netcoreapp2.1\Loggers.pdb
