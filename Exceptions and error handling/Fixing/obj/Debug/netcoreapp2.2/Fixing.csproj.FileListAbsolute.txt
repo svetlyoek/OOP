@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\bin\Debug\netcoreapp2.2\Fixing.deps.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\bin\Debug\netcoreapp2.2\Fixing.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\bin\Debug\netcoreapp2.2\Fixing.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\bin\Debug\netcoreapp2.2\Fixing.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\bin\Debug\netcoreapp2.2\Fixing.pdb
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\obj\Debug\netcoreapp2.2\Fixing.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\obj\Debug\netcoreapp2.2\Fixing.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\obj\Debug\netcoreapp2.2\Fixing.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\obj\Debug\netcoreapp2.2\Fixing.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Fixing\obj\Debug\netcoreapp2.2\Fixing.pdb

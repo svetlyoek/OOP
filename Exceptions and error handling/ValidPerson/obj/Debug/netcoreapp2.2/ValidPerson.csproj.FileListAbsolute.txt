@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\bin\Debug\netcoreapp2.2\ValidPerson.deps.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\bin\Debug\netcoreapp2.2\ValidPerson.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\bin\Debug\netcoreapp2.2\ValidPerson.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\bin\Debug\netcoreapp2.2\ValidPerson.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\bin\Debug\netcoreapp2.2\ValidPerson.pdb
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\obj\Debug\netcoreapp2.2\ValidPerson.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\obj\Debug\netcoreapp2.2\ValidPerson.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\obj\Debug\netcoreapp2.2\ValidPerson.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\obj\Debug\netcoreapp2.2\ValidPerson.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\obj\Debug\netcoreapp2.2\ValidPerson.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\ValidPerson\obj\Debug\netcoreapp2.2\ValidPerson.pdb

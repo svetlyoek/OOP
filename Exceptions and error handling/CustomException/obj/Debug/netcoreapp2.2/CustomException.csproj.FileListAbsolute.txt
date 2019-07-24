@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\obj\Debug\netcoreapp2.2\CustomException.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\obj\Debug\netcoreapp2.2\CustomException.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\obj\Debug\netcoreapp2.2\CustomException.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\obj\Debug\netcoreapp2.2\CustomException.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\bin\Debug\netcoreapp2.2\CustomException.deps.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\bin\Debug\netcoreapp2.2\CustomException.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\bin\Debug\netcoreapp2.2\CustomException.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\bin\Debug\netcoreapp2.2\CustomException.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\bin\Debug\netcoreapp2.2\CustomException.pdb
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\obj\Debug\netcoreapp2.2\CustomException.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\CustomException\obj\Debug\netcoreapp2.2\CustomException.pdb

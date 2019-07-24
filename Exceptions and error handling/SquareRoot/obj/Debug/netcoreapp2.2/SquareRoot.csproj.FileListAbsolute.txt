@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\bin\Debug\netcoreapp2.2\SquareRoot.deps.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\bin\Debug\netcoreapp2.2\SquareRoot.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\bin\Debug\netcoreapp2.2\SquareRoot.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\bin\Debug\netcoreapp2.2\SquareRoot.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\bin\Debug\netcoreapp2.2\SquareRoot.pdb
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\obj\Debug\netcoreapp2.2\SquareRoot.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\obj\Debug\netcoreapp2.2\SquareRoot.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\obj\Debug\netcoreapp2.2\SquareRoot.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\obj\Debug\netcoreapp2.2\SquareRoot.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\obj\Debug\netcoreapp2.2\SquareRoot.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\SquareRoot\obj\Debug\netcoreapp2.2\SquareRoot.pdb

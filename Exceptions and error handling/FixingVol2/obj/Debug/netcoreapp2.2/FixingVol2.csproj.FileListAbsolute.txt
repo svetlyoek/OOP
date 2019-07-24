@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\bin\Debug\netcoreapp2.2\FixingVol2.deps.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\bin\Debug\netcoreapp2.2\FixingVol2.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\bin\Debug\netcoreapp2.2\FixingVol2.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\bin\Debug\netcoreapp2.2\FixingVol2.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\bin\Debug\netcoreapp2.2\FixingVol2.pdb
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\obj\Debug\netcoreapp2.2\FixingVol2.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\obj\Debug\netcoreapp2.2\FixingVol2.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\obj\Debug\netcoreapp2.2\FixingVol2.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\obj\Debug\netcoreapp2.2\FixingVol2.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\obj\Debug\netcoreapp2.2\FixingVol2.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\FixingVol2\obj\Debug\netcoreapp2.2\FixingVol2.pdb

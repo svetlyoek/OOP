@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\bin\Debug\netcoreapp2.2\EnterNumbers.deps.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\bin\Debug\netcoreapp2.2\EnterNumbers.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\bin\Debug\netcoreapp2.2\EnterNumbers.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\bin\Debug\netcoreapp2.2\EnterNumbers.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\bin\Debug\netcoreapp2.2\EnterNumbers.pdb
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\obj\Debug\netcoreapp2.2\EnterNumbers.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\obj\Debug\netcoreapp2.2\EnterNumbers.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\obj\Debug\netcoreapp2.2\EnterNumbers.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\obj\Debug\netcoreapp2.2\EnterNumbers.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\EnterNumbers\obj\Debug\netcoreapp2.2\EnterNumbers.pdb
