@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\bin\Debug\netcoreapp2.2\Convert.ToDouble.deps.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\bin\Debug\netcoreapp2.2\Convert.ToDouble.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\bin\Debug\netcoreapp2.2\Convert.ToDouble.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\bin\Debug\netcoreapp2.2\Convert.ToDouble.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\bin\Debug\netcoreapp2.2\Convert.ToDouble.pdb
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\obj\Debug\netcoreapp2.2\Convert.ToDouble.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\obj\Debug\netcoreapp2.2\Convert.ToDouble.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\obj\Debug\netcoreapp2.2\Convert.ToDouble.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\obj\Debug\netcoreapp2.2\Convert.ToDouble.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\obj\Debug\netcoreapp2.2\Convert.ToDouble.dll
+E:\Soft Uni\CODES\OOP\Exceptions and error handling\Convert.ToDouble\obj\Debug\netcoreapp2.2\Convert.ToDouble.pdb
