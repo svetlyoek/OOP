@@ -1,0 +1,16 @@
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.deps.json
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.dll
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\MyProgram.pdb
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.dll
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.Tests.dll
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.Tests.pdb
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\bin\Debug\netcoreapp2.1\CustomTestingFramework.pdb
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.csproj.CopyComplete
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.dll
+E:\Soft Uni\CODES\OOP\Workshop\CustomUnitTestingFramework\MyProgram\obj\Debug\netcoreapp2.1\MyProgram.pdb
