@@ -1,0 +1,9 @@
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\bin\Debug\netcoreapp2.1\Database.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\bin\Debug\netcoreapp2.1\Database.pdb
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\obj\Debug\netcoreapp2.1\Database.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\Database\obj\Debug\netcoreapp2.1\Database.pdb
