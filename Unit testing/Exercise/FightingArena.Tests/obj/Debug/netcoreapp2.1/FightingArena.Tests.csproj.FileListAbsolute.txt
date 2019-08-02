@@ -1,0 +1,17 @@
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.deps.json
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.Tests.pdb
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\bin\Debug\netcoreapp2.1\FightingArena.pdb
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.csproj.CopyComplete
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.dll
+E:\Soft Uni\CODES\OOP\Unit testing\Exercise\FightingArena.Tests\obj\Debug\netcoreapp2.1\FightingArena.Tests.pdb
