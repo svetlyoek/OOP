@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\bin\Release\netcoreapp2.1\INStock.deps.json
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\bin\Release\netcoreapp2.1\INStock.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\bin\Release\netcoreapp2.1\INStock.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\bin\Release\netcoreapp2.1\INStock.dll
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\bin\Release\netcoreapp2.1\INStock.pdb
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\obj\Release\netcoreapp2.1\INStock.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\obj\Release\netcoreapp2.1\INStock.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\obj\Release\netcoreapp2.1\INStock.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\obj\Release\netcoreapp2.1\INStock.dll
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\obj\Release\netcoreapp2.1\INStock.pdb
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock\obj\Release\netcoreapp2.1\INStock.csprojAssemblyReference.cache

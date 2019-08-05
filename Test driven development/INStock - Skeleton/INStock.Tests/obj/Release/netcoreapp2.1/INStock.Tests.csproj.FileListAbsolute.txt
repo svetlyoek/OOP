@@ -1,0 +1,17 @@
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\NUnit3.TestAdapter.dll
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\NUnit3.TestAdapter.pdb
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\nunit.engine.netstandard.dll
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\INStock.Tests.deps.json
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\INStock.Tests.runtimeconfig.json
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\INStock.Tests.runtimeconfig.dev.json
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\INStock.Tests.dll
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\INStock.Tests.pdb
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\INStock.dll
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\bin\Release\netcoreapp2.1\INStock.pdb
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\obj\Release\netcoreapp2.1\INStock.Tests.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\obj\Release\netcoreapp2.1\INStock.Tests.csproj.CoreCompileInputs.cache
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\obj\Release\netcoreapp2.1\INStock.Tests.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\obj\Release\netcoreapp2.1\INStock.Tests.AssemblyInfo.cs
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\obj\Release\netcoreapp2.1\INStock.Tests.csproj.CopyComplete
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\obj\Release\netcoreapp2.1\INStock.Tests.dll
+E:\Soft Uni\CODES\OOP\Test driven development\INStock - Skeleton\INStock.Tests\obj\Release\netcoreapp2.1\INStock.Tests.pdb
